@@ -1,0 +1,4 @@
+config/
+.env
+deployment.cemex-rest.template.json
+deployment.cemex-tempsensor.template.json
